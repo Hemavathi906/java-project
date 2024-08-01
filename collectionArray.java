@@ -1,6 +1,6 @@
 
 import java.util.ArrayList;
-public class Arraycollection {
+public class collectionArray{
     public static void main(String[] args) {
         ArrayList al =new ArrayList();
         al.add(4);
